@@ -65,7 +65,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,vue,angular,nodejs,express,graphql,mongodb,tailwind&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart,html,css,git,github,vercel,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart,html,css,git,github,vercel,vscode,idea,webstorm&theme=dark" />
 </p>
 
 ### 🤖 AI tools I use
