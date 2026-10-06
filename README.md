@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vipul%20Singh&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20%26%20Mobile%20Developer%20%E2%80%A2%2010%2B%20years&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vipul%20Singh&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20and%20Mobile%20Developer%20%E2%80%A2%2010%2B%20years&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <p align="center">
   <a href="https://ivipul.com/">
