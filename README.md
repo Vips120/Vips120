@@ -34,8 +34,7 @@
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vips120&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vips120&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vips120&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Vips120&theme=tokyonight&hide_border=true" />
