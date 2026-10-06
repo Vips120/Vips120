@@ -17,17 +17,12 @@
 
 ### 🧑‍💻 About me
 
-```ts
-const vipul = {
-  role: "Full-stack & Mobile Developer",
-  experience: "10+ years · enterprise software, web platforms, freelance, technical training",
-  focus: ["AI-first development", "Developer productivity", "Shipping my own products"],
-  web: ["Next.js", "React", "Angular", "Node.js", "Express", "GraphQL", "MongoDB"],
-  mobile: ["Kotlin", "Flutter"],
-  location: "Thane, Maharashtra, India",
-  openTo: "Freelance & collaboration",
-};
-```
+- 💼 **10+ years** in IT: enterprise software, modern web platforms, freelance projects and technical training
+- 🤖 Focused on **AI-first development**, developer productivity and shipping my own products
+- 🌐 Web: **Next.js, React, Vue.js, Angular, Node.js, Express, GraphQL, MongoDB**
+- 📱 Mobile: **Kotlin** (native Android) and **Flutter**
+- 👨‍🏫 Former technical trainer: Angular, React, Node, Express and MongoDB
+- 📍 Thane, Maharashtra, India · 🤝 open to freelance and collaboration
 
 ### 🚀 What I'm building
 
@@ -69,8 +64,17 @@ const vipul = {
 ### 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,angular,nodejs,express,graphql,mongodb,tailwind&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,vue,angular,nodejs,express,graphql,mongodb,tailwind&theme=dark" /><br/>
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart,html,css,git,github,vercel,vscode&theme=dark" />
+</p>
+
+### 🤖 AI tools I use
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openaigym&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" />
 </p>
 
 ### 📊 GitHub activity
